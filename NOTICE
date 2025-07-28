@@ -5,7 +5,31 @@ Licensed under the LinkedIn Learning Exercise File License (the "License").
 See LICENSE in the project root for license information.
 
 ATTRIBUTIONS:
-[PLEASE PROVIDE ATTRIBUTIONS OR DELETE THIS AND THE ABOVE LINE “ATTRIBUTIONS”]
+
+Flake8
+https://github.com/PyCQA/flake8
+License: MIT
+https://opensource.org/licenses/MIT 
+
+Pylint
+https://github.com/pylint-dev/pylint
+License: GPL v2.0 (icons under CC BY‑SA 4.0)
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.html 
+
+isort
+https://github.com/PyCQA/isort
+License: MIT
+https://opensource.org/licenses/MIT 
+
+AWS CLI (awscli)
+https://github.com/aws/aws-cli
+License: Apache 2.0
+https://www.apache.org/licenses/LICENSE-2.0.html 
+
+Black
+https://github.com/psf/black
+License: MIT
+https://opensource.org/licenses/MIT 
 
 Please note, this project may automatically load third party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 
