@@ -6,6 +6,8 @@ This is the repository for the LinkedIn Learning course `Running Jenkins on AWS:
 
 ## Course Description
 
+Learn how to create a Jenkins environment using the cloud-based servers of AWS. In this course, instructor Michael Jenkins covers steps for setting up Jenkins, creating a build environment, connecting to code repositories with webhooks, using a deployment service, and shutting down AWS resources. First, Michael shows you how to create a Jenkins controller instance, including how to configure a security group, an NGINX reverse proxy, and the Jenkins automation service. Next, he takes you through creating a build environment and connecting the Jenkins controller to the build server. Michael explains what a webhook is, demonstrates how to create and test one in GitHub, and shows how to use a webhook to trigger an automated deployment with AWS Lambda. Finally, Michael discusses how to stop or remove AWS resources.
+
 ## Course Structure
 
 This repository is organized into directories that correspond to the videos and exercises in the course. Each chapter has its own directory, and within each chapter directory are subdirectories for each video or exercise.
@@ -38,8 +40,8 @@ Michael Jenkins, Lead Software Engineer
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/michael-jenkins).
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0r7-qFsC2SA/learning-public-crop_675_1200/B4EZg4SNTOHoAY-/0/1753290954650?e=2147483647&v=beta&t=5qXC2cWevHWwseDS3vED62AV7AIuUNiKy48BcM5AP1Q
 
 <!-- FooterStart -->
 ---
