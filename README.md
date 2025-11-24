@@ -1,4 +1,4 @@
-# Running Jenkins on AWS: Deploying and Managing Jenkins on Cloud Infrastructure
+# Running Jenkins on AWS: Deploying and Managing Jenkins on Cloud Infrastructure |
 
 This is the repository for the LinkedIn Learning course `Running Jenkins on AWS: Deploying and Managing Jenkins on Cloud Infrastructure`. The full course is available from [LinkedIn Learning][lil-course-url].
 
